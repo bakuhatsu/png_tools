@@ -2,7 +2,7 @@
 # 3/28/2016                       #
 # Sven Nelson                     #
 # Convert PNG white background    #
-# to transparent 				          #
+# to transparent                  #
 ###################################
 
 ## Function takes a filename of a PNG and makes background transparent
